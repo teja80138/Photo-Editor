@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo Studio",
+  "description": "Advanced photo editor with AI filters, generative editing, background removal, inpainting, and professional color adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
